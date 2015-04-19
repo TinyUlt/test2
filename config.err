@@ -1,0 +1,125 @@
+1
+2
+3
+44444
+55555
+# /Users/TinyUlt/Downloads/libvpx-v1.1.0/configure 
+Configuring selected codecs
+  enabling vp8_encoder
+  enabling vp8_decoder
+Configuring for target 'generic-gnu'
+  enabling generic
+check_cflags -O3
+check_cc -O3
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -O3 -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cc
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	    unsigned int e = 'O'<<24 | '2'<<16 | 'B'<<8 | 'E';
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_header pthread.h
+check_cpp
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	#include "pthread.h"
+    2	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -E -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_header unistd.h
+check_cpp
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	#include "unistd.h"
+    2	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -E -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wall
+check_cc -Wall
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wall -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wdeclaration-after-statement
+check_cc -Wdeclaration-after-statement
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wdeclaration-after-statement -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wdisabled-optimization
+check_cc -Wdisabled-optimization
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wdisabled-optimization -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wpointer-arith
+check_cc -Wpointer-arith
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wpointer-arith -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wtype-limits
+check_cc -Wtype-limits
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wtype-limits -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wcast-qual
+check_cc -Wcast-qual
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wcast-qual -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wimplicit-function-declaration
+check_cc -Wimplicit-function-declaration
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wimplicit-function-declaration -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wuninitialized
+check_cc -Wuninitialized
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wuninitialized -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wunused-variable
+check_cc -Wunused-variable
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wunused-variable -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wunused-but-set-variable
+check_cc -Wunused-but-set-variable
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wunused-but-set-variable -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_cflags -Wno-unused-function
+check_cc -Wno-unused-function
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -Wno-unused-function -c -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
+check_header stdio.h
+check_cpp
+BEGIN /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+    1	#include "stdio.h"
+    2	int x;
+END /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+gcc -E -o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-25081.o /var/folders/4x/54q2tp014k3gbdjpp7kq8pj00000gn/T//vpx-conf-79040-32513.c
+xcrun: error: active developer path ("/Applications/Xcode 2.app/Contents/Developer") does not exist, use xcode-select to change
